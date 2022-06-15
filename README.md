@@ -1,6 +1,6 @@
 # UIKIt-SwiftUI-Nav-Sample
 
-<table border=0>
+<table border="0">
   <tr>
     <td>
       <img width="300" alt="スクリーンショット 2022-06-16 1 49 06" src="https://user-images.githubusercontent.com/6063541/173882774-ccbd1a35-56c6-488e-aa3c-2a0acd665c11.png">
